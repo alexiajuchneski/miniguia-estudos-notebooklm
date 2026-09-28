@@ -17,6 +17,7 @@ https://crcgo.org.br/wp-content/uploads/2022/12/Spin-Selling-Alcancando-Excelenc
 https://www.rdstation.com/blog/vendas/spin-selling/
 
 PROMPTS
+
 O que é SPIN Selling e como funciona?
 
 Imagine que eu seja uma profissional de vendas B2B atendendo um cliente que está enfrentando problemas de baixo giro de produtos. Com base exclusivamente nos conceitos apresentados nas fontes, construa uma sequência de perguntas SPIN para conduzir essa conversa. Separe as perguntas em Situação, Problema, Implicação e Necessidade de Solução e explique o objetivo estratégico de cada pergunta.
